@@ -1,0 +1,1 @@
+/var/www/html/mag/lib/web/requirejs/domReady.js
